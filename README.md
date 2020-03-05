@@ -5,9 +5,8 @@ The repository contains excel files with the original downloaded data and a Jupy
 
 # Brief description of findings and background data:
 I decided to look at restaurants in Baltimore. I currently live in Baltimore and feel I eat at the same few restaurants, so I wanted to see how many restuarants there were in the city and in what areas. The data showed that Downtown had the most restaurants with 128, and where I live has 9. The zipcode of 21224 has the most restaurants, and where I live (21210) has 23. The benefits of this is that if people want to go out and find an area with the most food options, they can use this data to find the zip code or neighborhood destination they need. For this, Excel actually might have been better for the Pivot Tables, however in Python I was able to use both by extracting data from the spreadsheets uploaded in the repositories.
-
-![](Neighborhoods.PNG)
-![](Zip%20Codes.PNG) 
+![](Restaurants-in-Baltimore/Zip%20Codes.png)
+![](Restaurants-in-Baltimore/Neighborhoods.png)
 
 # Outline:
 Industry question:
